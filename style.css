@@ -16,8 +16,9 @@
   --clr-text-muted: #94a3b8;
   --clr-text-faint: #475569;
 
-  --font-body: 'Inter', system-ui, sans-serif;
-  --font-display: 'Syne', system-ui, sans-serif;
+   --font-body: 'Inter', system-ui, sans-serif;
+  /* --font-display: 'Syne', system-ui, sans-serif; */
+  --font-display: "Roboto", sans-serif;
 
   --radius-sm: 6px;
   --radius-md: 12px;
